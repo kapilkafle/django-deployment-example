@@ -30,7 +30,7 @@ SECRET_KEY = '9_0lf3+&m8zbc#x_-)_$ry8%)7lb4#5s7rj))4m^@$fa*g%v@r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kapilkafle.pythonanywhere.com']
 
 
 # Application definition
